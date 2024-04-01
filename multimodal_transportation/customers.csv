@@ -1,0 +1,15 @@
+﻿ID,city,lat,lon,country,demand
+c1,Atlanta,33.7628,-84.422,United States,270
+c2,Portland,45.5371,-122.65,United States,120
+c3,Providence,41.823,-71.4187,United States,90
+c4,Indianapolis,39.7771,-86.1458,United States,90
+c5,Pittsburgh,40.4397,-79.9763,United States,120
+c6,Cleveland,41.4764,-81.6805,United States,120
+c7,Nashville,36.1715,-86.7842,United States,120
+c8,Chicago,41.8375,-87.6866,United States,720
+c9,Kansas City,39.1238,-94.5541,United States,120
+c10,Miami,25.784,-80.2101,United States,560
+c11,Columbus,39.9862,-82.9855,United States,120
+c12,Los Angeles,34.1141,-118.4068,United States,440
+c13,Richmond,37.5295,-77.4756,United States,60
+c14,Jacksonville,30.3322,-81.6749,United States,150
