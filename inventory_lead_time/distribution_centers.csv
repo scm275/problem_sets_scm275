@@ -1,0 +1,10 @@
+ID,name,country,lat,lon,demand,sigma
+dc_albany,Albany DC,US,42.6569706,-73.79437356,1000,300
+dc_chicago,Chicago DC,US,41.51325079,-88.05129404,1000,300
+dc_dallas,Dallas DC,US,32.29470241,-96.50162791,1000,300
+dc_houston,Houston DC,US,29.75971376,-94.96398641,1000,300
+dc_memphis,Memphis DC,US,35.1335022,-89.9668758,1000,300
+dc_richmond,Richmond DC,US,37.43659886,-77.47652641,1000,300
+dc_san_bernandino,San Bernandino DC,US,34.09545717,-117.2325538,1000,300
+dc_savannah,Savannah DC,US,32.1962413,-81.68937827,1000,300
+dc_seattle,Seattle DC,US,47.6038321,-122.3300624,1000,300
