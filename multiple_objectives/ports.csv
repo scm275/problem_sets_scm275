@@ -1,4 +1,4 @@
-ID,port,country,lat,lon,incoming_flow
+ID,city,country,lat,lon,incoming_flow
 pt_los_angeles,Los Angeles,US,33.71882348,-118.3032012,1800
 pt_new_jersey,New Jersey,US,40.68420306,-74.00755051,2000
 pt_new_york,New York,US,40.757308,-73.989735,1400
