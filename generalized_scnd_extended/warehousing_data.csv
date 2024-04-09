@@ -1,4 +1,4 @@
-warehouseID,product,resources,var_cost,allowed
+facilityID,product,resources,var_cost,allowed
 w1,product_a,1.2,4.6,0
 w1,product_b,2,4.2,1
 w1,product_c,1.3,5,1
