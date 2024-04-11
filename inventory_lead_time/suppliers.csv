@@ -1,7 +1,7 @@
-ID,name,country,lat,lon
-mfg_haiphong,Haiphong Manufacturer,Vietnam,20.85360985,106.5771433
-mfg_ho_chi_minh_city,Ho Chi Minh City Manufacturer,Vietnam,10.92286074,106.8971771
-mfg_laem_chabang,Laem Chabang Manufacturer,Thailand,13.38085682,101.0241521
-mfg_ningbo,Ningbo Manufacturer,China,29.63314705,121.3830405
-mfg_shanghai,Shanghai Manufacturer,China,31.31899157,120.5455551
-mfg_shenzhen,Shenzhen Manufacturer,China,23.10517397,113.7853561
+ID,city,country,lat,lon
+mfg_haiphong,Haiphong,Vietnam,20.85360985,106.5771433
+mfg_ho_chi_minh_city,Ho Chi Minh City,Vietnam,10.92286074,106.8971771
+mfg_laem_chabang,Laem Chabang,Thailand,13.38085682,101.0241521
+mfg_ningbo,Ningbo,China,29.63314705,121.3830405
+mfg_shanghai,Shanghai,China,31.31899157,120.5455551
+mfg_shenzhen,Shenzhen,China,23.10517397,113.7853561

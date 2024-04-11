@@ -1,10 +1,10 @@
-ID,name,country,lat,lon,demand,sigma
-dc_albany,Albany DC,US,42.6569706,-73.79437356,6000,1860
-dc_chicago,Chicago DC,US,41.51325079,-88.05129404,5000,1550
-dc_dallas,Dallas DC,US,32.29470241,-96.50162791,3000,840
-dc_houston,Houston DC,US,29.75971376,-94.96398641,5000,1450
-dc_memphis,Memphis DC,US,35.1335022,-89.9668758,5000,1400
-dc_richmond,Richmond DC,US,37.43659886,-77.47652641,6000,2040
-dc_san_bernandino,San Bernandino DC,US,34.09545717,-117.2325538,4000,1200
-dc_savannah,Savannah DC,US,32.1962413,-81.68937827,5000,1650
-dc_seattle,Seattle DC,US,47.6038321,-122.3300624,7000,1960
+ID,citu,country,lat,lon,demand,sigma
+dc_albany,Albany,US,42.6569706,-73.79437356,6000,1860
+dc_chicago,Chicago,US,41.51325079,-88.05129404,5000,1550
+dc_dallas,Dallas,US,32.29470241,-96.50162791,3000,840
+dc_houston,Houston,US,29.75971376,-94.96398641,5000,1450
+dc_memphis,Memphis,US,35.1335022,-89.9668758,5000,1400
+dc_richmond,Richmond,US,37.43659886,-77.47652641,6000,2040
+dc_san_bernandino,San Bernandino,US,34.09545717,-117.2325538,4000,1200
+dc_savannah,Savannah,US,32.1962413,-81.68937827,5000,1650
+dc_seattle,Seattle,US,47.6038321,-122.3300624,7000,1960
