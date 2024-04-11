@@ -1,4 +1,4 @@
-ID,citu,country,lat,lon,demand,sigma
+ID,city,country,lat,lon,demand,sigma
 dc_albany,Albany,US,42.6569706,-73.79437356,6000,1860
 dc_chicago,Chicago,US,41.51325079,-88.05129404,5000,1550
 dc_dallas,Dallas,US,32.29470241,-96.50162791,3000,840
