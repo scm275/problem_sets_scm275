@@ -1,0 +1,41 @@
+origin_id,origin,destination_id,destination,lead_time,cost
+s1,Haiphong,d1,Atlanta,50,0.625
+s1,Haiphong,d2,Columbus,50,0.458
+s1,Haiphong,d3,Kansas City,55,0.458
+s1,Haiphong,d4,Los Angeles,35,0.321
+s1,Haiphong,d6,Portland,34,0.34
+s1,Haiphong,d7,Providence,41,0.513
+s1,Haiphong,d8,Savannah,42,0.35
+s1,Haiphong,d9,Seattle,32,0.32
+s2,Laem Chabang,d1,Atlanta,49,0.49
+s2,Laem Chabang,d2,Columbus,49,0.613
+s2,Laem Chabang,d3,Kansas City,56,0.56
+s2,Laem Chabang,d4,Los Angeles,34,0.312
+s2,Laem Chabang,d6,Portland,34,0.283
+s2,Laem Chabang,d7,Providence,41,0.376
+s2,Laem Chabang,d8,Savannah,42,0.455
+s2,Laem Chabang,d9,Seattle,33,0.33
+s3,Shenzhen,d1,Atlanta,51,0.638
+s3,Shenzhen,d2,Columbus,49,0.49
+s3,Shenzhen,d3,Kansas City,57,0.523
+s3,Shenzhen,d4,Los Angeles,34,0.425
+s3,Shenzhen,d6,Portland,32,0.32
+s3,Shenzhen,d7,Providence,40,0.5
+s3,Shenzhen,d8,Savannah,44,0.403
+s3,Shenzhen,d9,Seattle,32,0.267
+s4,Callao,d1,Atlanta,26,0.282
+s4,Callao,d2,Columbus,26,0.325
+s4,Callao,d3,Kansas City,32,0.267
+s4,Callao,d4,Los Angeles,10,0.092
+s4,Callao,d6,Portland,9,0.113
+s4,Callao,d7,Providence,20,0.183
+s4,Callao,d8,Savannah,24,0.3
+s4,Callao,d9,Seattle,9,0.105
+s5,Buenaventura,d1,Atlanta,28,0.257
+s5,Buenaventura,d2,Columbus,24,0.22
+s5,Buenaventura,d3,Kansas City,32,0.373
+s5,Buenaventura,d4,Los Angeles,10,0.083
+s5,Buenaventura,d6,Portland,10,0.108
+s5,Buenaventura,d7,Providence,21,0.175
+s5,Buenaventura,d8,Savannah,23,0.288
+s5,Buenaventura,d9,Seattle,10,0.125

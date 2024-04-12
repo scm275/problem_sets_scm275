@@ -1,0 +1,9 @@
+﻿ID,city,lat,lon,country,fixed_cost,capacity
+d1,Atlanta,33.7628,-84.422,United States,900000,500000
+d2,Columbus,39.9862,-82.9855,United States,1000000,500000
+d3,Kansas City,39.1238,-94.5541,United States,1050000,500000
+d4,Los Angeles,34.1141,-118.4068,United States,900000,500000
+d6,Portland,45.5371,-122.65,United States,1500000,500000
+d7,Providence,41.823,-71.4187,United States,750000,500000
+d8,Savannah,32.1962413,-81.68937827,United States,1250000,500000
+d9,Seattle,47.6038321,-122.3300624,United States,1050000,500000
