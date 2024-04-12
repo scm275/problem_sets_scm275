@@ -1,0 +1,9 @@
+ID,city,country,lat,lon,supply,unit_price
+s1,Buenaventura,Colombia,3.8899335,-77.0786047,805000,17.6
+s2,Colombo,Sri Lanka,6.88669255,79.91873787,460000,11.9
+s3,Jawaharlal Nehru,India,18.50226505,73.85567153,845000,13.2
+s4,Callao,Peru,-12.0522626,-77.1391133,690000,13.7
+s5,San Antonio,Chile,-33.5808615,-71.6132377,460000,16.5
+s6,Ho Chi Minh City,Vietnam,10.92286074,106.8971771,990000,10.2
+s7,Laem Chabang,Thailand,13.38085682,101.0241521,460000,11.2
+s8,Ningbo,China,29.63314705,121.3830405,675000,9.7
