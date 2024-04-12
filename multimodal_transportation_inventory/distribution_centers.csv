@@ -1,22 +1,22 @@
-﻿ID,city,lat,lon,country,demand
-c1,Albany,42.6569706,-73.79437356,United States,1500000
-c2,Atlanta,33.7628,-84.422,United States,900000
-c3,Chicago,41.8375,-87.6866,United States,1000000
-c4,Cleveland,41.4764,-81.6805,United States,900000
-c5,Columbus,39.9862,-82.9855,United States,1000000
-c6,Dallas,32.29470241,-96.50162791,United States,450000
-c7,Houston,29.75971376,-94.96398641,United States,1500000
-c8,Indianapolis,39.7771,-86.1458,United States,750000
-c9,Jacksonville,30.3322,-81.6749,United States,1250000
-c10,Kansas City,39.1238,-94.5541,United States,1050000
-c11,Los Angeles,34.1141,-118.4068,United States,900000
-c12,Memphis,35.1335022,-89.9668758,United States,750000
-c13,Miami,25.784,-80.2101,United States,1500000
-c14,Nashville,36.1715,-86.7842,United States,1200000
-c15,Pittsburgh,40.4397,-79.9763,United States,1500000
-c16,Portland,45.5371,-122.65,United States,1500000
-c17,Providence,41.823,-71.4187,United States,750000
-c18,Richmond,37.5295,-77.4756,United States,1200000
-c19,San Bernandino,34.09545717,-117.2325538,United States,1000000
-c20,Savannah,32.1962413,-81.68937827,United States,1250000
-c21,Seattle,47.6038321,-122.3300624,United States,1050000
+﻿ID,city,lat,lon,country,demand,sigma
+c1,Albany,42.6569706,-73.79437356,United States,1500000,330000
+c2,Atlanta,33.7628,-84.422,United States,900000,189000
+c3,Chicago,41.8375,-87.6866,United States,1000000,230000
+c4,Cleveland,41.4764,-81.6805,United States,900000,225000
+c5,Columbus,39.9862,-82.9855,United States,1000000,240000
+c6,Dallas,32.29470241,-96.50162791,United States,450000,103500
+c7,Houston,29.75971376,-94.96398641,United States,1500000,315000
+c8,Indianapolis,39.7771,-86.1458,United States,750000,187500
+c9,Jacksonville,30.3322,-81.6749,United States,1250000,275000
+c10,Kansas City,39.1238,-94.5541,United States,1050000,210000
+c11,Los Angeles,34.1141,-118.4068,United States,900000,270000
+c12,Memphis,35.1335022,-89.9668758,United States,750000,157500
+c13,Miami,25.784,-80.2101,United States,1500000,360000
+c14,Nashville,36.1715,-86.7842,United States,1200000,240000
+c15,Pittsburgh,40.4397,-79.9763,United States,1500000,375000
+c16,Portland,45.5371,-122.65,United States,1500000,330000
+c17,Providence,41.823,-71.4187,United States,750000,225000
+c18,Richmond,37.5295,-77.4756,United States,1200000,360000
+c19,San Bernandino,34.09545717,-117.2325538,United States,1000000,290000
+c20,Savannah,32.1962413,-81.68937827,United States,1250000,337500
+c21,Seattle,47.6038321,-122.3300624,United States,1050000,304500
