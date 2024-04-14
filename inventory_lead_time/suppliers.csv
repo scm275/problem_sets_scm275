@@ -1,7 +1,7 @@
 ID,city,country,supply,lat,lon
-mfg_haiphong,Haiphong,Vietnam,805000,20.85360985,106.5771433
-mfg_ho_chi_minh_city,Ho Chi Minh City,Vietnam,460000,10.92286074,106.8971771
+mfg_haiphong,Haiphong,Vietnam,410000,20.85360985,106.5771433
+mfg_ho_chi_minh_city,Ho Chi Minh City,Vietnam,260000,10.92286074,106.8971771
 mfg_laem_chabang,Laem Chabang,Thailand,345000,13.38085682,101.0241521
-mfg_ningbo,Ningbo,China,690000,29.63314705,121.3830405
+mfg_ningbo,Ningbo,China,250000,29.63314705,121.3830405
 mfg_shanghai,Shanghai,China,460000,31.31899157,120.5455551
-mfg_shenzhen,Shenzhen,China,575000,23.10517397,113.7853561
+mfg_shenzhen,Shenzhen,China,275000,23.10517397,113.7853561
