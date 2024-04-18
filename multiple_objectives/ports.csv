@@ -1,7 +1,5 @@
 ID,city,country,lat,lon,incoming_flow
-pt_los_angeles,Los Angeles,US,33.71882348,-118.3032012,1800
-pt_new_jersey,New Jersey,US,40.68420306,-74.00755051,2000
-pt_new_york,New York,US,40.757308,-73.989735,1400
-pt_norfolk,Norfolk,US,36.96443025,-76.34088046,2000
-pt_savannah,Savannah,US,32.12595659,-81.12954013,1000
-pt_tacoma,Tacoma,US,47.2662396,-122.3972609,2000
+pt_los_angeles,Los Angeles,US,33.71882348,-118.3032012,5000
+pt_tacoma,Tacoma,US,47.2662396,-122.3972609,4500
+pt_houston,Houston,US,29.66436401,-94.99014154,3500
+pt_oakland,Oakland,US,37.79472475,-122.2813256,2000
