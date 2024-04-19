@@ -1,0 +1,13 @@
+ID,name,country,lat,lon,time
+USBAL,Baltimore,United States,39.2908816,-76.610759,5
+USBOS,Boston,United States,42.3554334,-71.060511,3.7
+USCHS,Charleston,United States,32.7876012,-79.9402728,4.8
+USHOU,Houston,United States,29.7589382,-95.3676974,4.3
+USJAX,Jacksonville,United States,30.3321838,-81.655651,6.4
+USLGB,Long Beach,United States,33.7690164,-118.191604,4.8
+USMIA,Miami,United States,25.7741728,-80.19362,3.3
+USNFK,Norfolk,United States,36.8448348,-76.2863999,4.7
+USNWK,Newark,United States,40.735657,-74.1723667,5.4
+USPHL,Philadelphia,United States,39.9527237,-75.1635262,3.6
+USSAV,Savannah,United States,32.0564572,-81.0951271,3.3
+USTAC,Tacoma,United States,47.2455013,-122.438329,3.7
