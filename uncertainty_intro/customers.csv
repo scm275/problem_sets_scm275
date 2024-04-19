@@ -1,0 +1,83 @@
+ID,city,state,lat,lon
+c1,New York,New York,40.6943,-73.9249
+c2,Los Angeles,California,34.1141,-118.4068
+c3,Chicago,Illinois,41.8375,-87.6866
+c4,Miami,Florida,25.784,-80.2101
+c5,Houston,Texas,29.786,-95.3885
+c6,Philadelphia,Pennsylvania,40.0077,-75.1339
+c7,Washington,District of Columbia,38.9047,-77.0163
+c8,Boston,Massachusetts,42.3188,-71.0852
+c9,Phoenix,Arizona,33.5722,-112.0892
+c10,Detroit,Michigan,42.3834,-83.1024
+c11,Seattle,Washington,47.6211,-122.3244
+c12,San Francisco,California,37.7558,-122.4449
+c13,San Diego,California,32.8313,-117.1222
+c14,Tampa,Florida,27.9945,-82.4447
+c15,Brooklyn,New York,40.6501,-73.9496
+c16,Denver,Colorado,39.762,-104.8758
+c17,Queens,New York,40.7498,-73.7976
+c18,Riverside,California,33.9381,-117.3949
+c19,Las Vegas,Nevada,36.2333,-115.2654
+c20,Baltimore,Maryland,39.3051,-76.6144
+c21,St. Louis,Missouri,38.6359,-90.2451
+c22,Portland,Oregon,45.5371,-122.65
+c23,San Antonio,Texas,29.4632,-98.5238
+c24,Sacramento,California,38.5677,-121.4685
+c25,Austin,Texas,30.3005,-97.7522
+c26,Orlando,Florida,28.4773,-81.337
+c27,San Jose,California,37.3012,-121.848
+c28,Pittsburgh,Pennsylvania,40.4397,-79.9763
+c29,Manhattan,New York,40.7834,-73.9662
+c30,Cincinnati,Ohio,39.1413,-84.506
+c31,Kansas City,Missouri,39.1238,-94.5541
+c32,Cleveland,Ohio,41.4764,-81.6805
+c33,Columbus,Ohio,39.9862,-82.9855
+c34,Bronx,New York,40.8501,-73.8662
+c35,Virginia Beach,Virginia,36.7335,-76.0435
+c36,Charlotte,North Carolina,35.2083,-80.8303
+c37,Milwaukee,Wisconsin,43.0642,-87.9675
+c38,Providence,Rhode Island,41.823,-71.4187
+c39,Jacksonville,Florida,30.3322,-81.6749
+c40,Nashville,Tennessee,36.1715,-86.7842
+c41,Salt Lake City,Utah,40.7776,-111.9311
+c42,Raleigh,North Carolina,35.8324,-78.6429
+c43,Richmond,Virginia,37.5295,-77.4756
+c44,Memphis,Tennessee,35.1087,-89.9663
+c45,Oklahoma City,Oklahoma,35.4676,-97.5136
+c46,Hartford,Connecticut,41.7661,-72.6834
+c47,Louisville,Kentucky,38.1663,-85.6485
+c48,Buffalo,New York,42.9018,-78.8487
+c49,New Orleans,Louisiana,30.0687,-89.9288
+c50,Fort Worth,Texas,32.7817,-97.3474
+c51,Bridgeport,Connecticut,41.1918,-73.1954
+c52,Tucson,Arizona,32.1541,-110.8787
+c53,El Paso,Texas,31.8476,-106.43
+c54,Omaha,Nebraska,41.2627,-96.0529
+c55,McAllen,Texas,26.2252,-98.2467
+c56,Hempstead,New York,40.6629,-73.6089
+c57,Birmingham,Alabama,33.5279,-86.7971
+c58,Albuquerque,New Mexico,35.1054,-106.6465
+c59,Tulsa,Oklahoma,36.1283,-95.9042
+c60,Fresno,California,36.783,-119.7939
+c61,Charleston,South Carolina,32.8168,-79.9687
+c62,Rochester,New York,43.168,-77.6162
+c63,Dayton,Ohio,39.7805,-84.2003
+c64,Cape Coral,Florida,26.6443,-81.9957
+c65,Mission Viejo,California,33.6096,-117.6551
+c66,Colorado Springs,Colorado,38.8674,-104.7605
+c67,Baton Rouge,Louisiana,30.442,-91.1311
+c68,Allentown,Pennsylvania,40.5961,-75.4756
+c69,Ogden,Utah,41.2279,-111.9682
+c70,Provo,Utah,40.2457,-111.6457
+c71,Knoxville,Tennessee,35.9692,-83.9496
+c72,Grand Rapids,Michigan,42.9619,-85.6562
+c73,Columbia,South Carolina,34.0378,-80.9036
+c74,Albany,New York,42.6664,-73.7987
+c75,Bakersfield,California,35.3529,-119.0359
+c76,New Haven,Connecticut,41.3113,-72.9246
+c77,Des Moines,Iowa,41.5725,-93.6105
+c78,Akron,Ohio,41.0798,-81.5219
+c79,Palm Bay,Florida,27.9631,-80.6593
+c80,Concord,California,37.9722,-122.0016
+c81,Wichita,Kansas,37.6895,-97.3443
+c82,Mesa,Arizona,33.4015,-111.7178
