@@ -1,5 +1,5 @@
 ID,city,country,lat,lon,incoming_flow
-pt_los_angeles,Los Angeles,US,33.71882348,-118.3032012,5000
+pt_los_angeles,Los Angeles,US,33.71882348,-118.3032012,3500
 pt_tacoma,Tacoma,US,47.2662396,-122.3972609,4500
-pt_houston,Houston,US,29.66436401,-94.99014154,3500
+pt_houston,Houston,US,29.66436401,-94.99014154,5000
 pt_oakland,Oakland,US,37.79472475,-122.2813256,2000
