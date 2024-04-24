@@ -1,0 +1,371 @@
+ID,city,demand,month
+c1,Lubbock,6500,1
+c2,Greenville,6500,1
+c3,Olympia,13500,1
+c4,Colorado Springs,6000,1
+c5,Clarksville,5500,1
+c6,Worcester,10000,1
+c7,Columbia,15000,1
+c8,Rockford,10500,1
+c9,Henderson,5500,1
+c10,Savannah,6500,1
+c11,Tampa,11500,1
+c12,Augusta,8500,1
+c13,Kennewick,12000,1
+c14,Fresno,10000,1
+c15,Portland,12000,1
+c16,Orlando,12500,1
+c17,Boise,12500,1
+c18,Chicago,14000,1
+c19,Laredo,6000,1
+c20,Santa Ana,13500,1
+c21,Huntsville,12500,1
+c22,Concord,10000,1
+c23,Washington,11500,1
+c24,Waterbury,5000,1
+c25,Islip,12500,1
+c26,Springfield,5500,1
+c27,Virginia Beach,11000,1
+c28,Fort Worth,5000,1
+c29,Dayton,8500,1
+c30,Albany,6500,1
+c31,Brookhaven,13000,1
+c32,Enterprise,9000,1
+c33,Charleston,11000,1
+c34,Miami,13500,1
+c35,Shreveport,11500,1
+c36,Fayetteville,5500,1
+c37,Tallahassee,14000,1
+c38,Boston,7500,1
+c39,Little Rock,5500,1
+c40,Arlington,8000,1
+c41,Buffalo,7000,1
+c42,Palm Bay,10000,1
+c43,Birmingham,5000,1
+c44,Fremont,14000,1
+c45,Stockton,8000,1
+c46,Anaheim,5000,1
+c47,Allentown,7000,1
+c48,Irving,9000,1
+c49,Arlington,9500,1
+c50,Richmond,14000,1
+c51,Winter Haven,7000,1
+c52,Brownsville,14500,1
+c53,Minneapolis,7000,1
+c54,Victorville,5000,1
+c55,McAllen,6500,1
+c56,College Station,8000,1
+c57,Pittsburgh,12500,1
+c58,Chandler,8000,1
+c59,Lorain,7500,1
+c60,Gulfport,8500,1
+c61,Houston,6500,1
+c62,Concord,13500,1
+c63,Rochester,7500,1
+c64,Poughkeepsie,7500,1
+c65,Akron,13000,1
+c66,Philadelphia,12000,1
+c67,South Bend,15000,1
+c68,Columbus,5500,1
+c69,Mission Viejo,12500,1
+c70,Lexington,10000,1
+c71,Myrtle Beach,14500,1
+c72,St. Petersburg,5000,1
+c73,Fort Collins,14000,1
+c74,Peoria,6000,1
+c75,Durham,13000,1
+c76,Kalamazoo,10500,1
+c77,Syracuse,7500,1
+c78,Santa Clarita,12500,1
+c79,Milwaukee,6500,1
+c80,Los Angeles,7500,1
+c81,Youngstown,8500,1
+c82,Kissimmee,9000,1
+c83,Denver,14500,1
+c84,Gainesville,11000,1
+c85,Denton,7000,1
+c86,Jacksonville,6500,1
+c87,St. Louis,11500,1
+c88,Bremerton,6500,1
+c89,Rock Hill,6500,1
+c90,Nashua,5500,1
+c91,Jackson,6000,1
+c92,Sioux Falls,8500,1
+c93,Brooklyn,14000,1
+c94,Bridgeport,13500,1
+c95,San Antonio,12000,1
+c96,Tulsa,7500,1
+c97,Manhattan,7000,1
+c98,Mesa,5000,1
+c99,Asheville,11500,1
+c100,Thousand Oaks,14500,1
+c101,Harrisburg,13000,1
+c102,Spokane,7000,1
+c103,Amarillo,10500,1
+c104,Louisville,15000,1
+c105,Fort Wayne,15000,1
+c106,Yonkers,14000,1
+c107,Jersey City,9000,1
+c108,Eugene,14000,1
+c109,Lakeland,6000,1
+c110,Baton Rouge,12000,1
+c111,Nashville,12000,1
+c112,Cincinnati,6000,1
+c113,Scottsdale,6500,1
+c114,Sacramento,6000,1
+c115,Appleton,13000,1
+c116,North Las Vegas,13000,1
+c117,Indio,13000,1
+c118,Flint,13500,1
+c119,Santa Rosa,10000,1
+c120,San Diego,12500,1
+c121,Cleveland,13500,1
+c122,San Jose,5000,1
+c123,Madison,13000,1
+c124,St. Paul,6500,1
+c125,Indianapolis,7000,1
+c126,Huntington,7500,1
+c127,Corpus Christi,11000,1
+c128,Baltimore,10500,1
+c129,Detroit,7500,1
+c130,Ann Arbor,15000,1
+c131,Oakland,14000,1
+c132,Lansing,13500,1
+c133,Hartford,12500,1
+c134,Roanoke,5000,1
+c135,New Orleans,8500,1
+c136,Lafayette,14000,1
+c137,Oyster Bay,14000,1
+c138,Long Beach,5000,1
+c139,Tacoma,10000,1
+c140,Chattanooga,11000,1
+c141,Des Moines,11500,1
+c142,New Haven,14000,1
+c143,Ogden,13000,1
+c144,Evansville,7500,1
+c145,Toledo,6000,1
+c146,Trenton,11000,1
+c147,Oklahoma City,9500,1
+c148,Wilmington,15000,1
+c149,Modesto,7500,1
+c150,Montgomery,12500,1
+c151,Moreno Valley,7500,1
+c152,Austin,14500,1
+c153,North Hempstead,6500,1
+c154,Aurora,13000,1
+c155,Phoenix,9500,1
+c156,El Paso,7000,1
+c157,Galveston,8500,1
+c158,Oxnard,9000,1
+c159,Omaha,13500,1
+c160,Staten Island,14500,1
+c161,Wichita,12500,1
+c162,Seattle,13500,1
+c163,Hempstead,6500,1
+c164,San Bernardino,13000,1
+c165,Deltona,7000,1
+c166,Chula Vista,8500,1
+c167,Fargo,7500,1
+c168,Reno,15000,1
+c169,Plano,6000,1
+c170,Port St. Lucie,14500,1
+c171,York,6500,1
+c172,Glendale,5000,1
+c173,Bronx,6500,1
+c174,Lancaster,14500,1
+c175,Bonita Springs,12500,1
+c176,Cape Coral,5000,1
+c177,Garland,9500,1
+c178,Dallas,14500,1
+c179,Lincoln,5500,1
+c180,Grand Rapids,15000,1
+c181,Columbus,12000,1
+c182,Atlanta,11500,1
+c183,Fontana,11000,1
+c184,San Francisco,10500,1
+c185,New York,8500,1
+c1,Lubbock,6500,2
+c2,Greenville,6500,2
+c3,Olympia,13500,2
+c4,Colorado Springs,6000,2
+c5,Clarksville,5500,2
+c6,Worcester,10000,2
+c7,Columbia,15000,2
+c8,Rockford,10500,2
+c9,Henderson,5500,2
+c10,Savannah,6500,2
+c11,Tampa,11500,2
+c12,Augusta,8500,2
+c13,Kennewick,12000,2
+c14,Fresno,10000,2
+c15,Portland,12000,2
+c16,Orlando,12500,2
+c17,Boise,12500,2
+c18,Chicago,14000,2
+c19,Laredo,6000,2
+c20,Santa Ana,13500,2
+c21,Huntsville,12500,2
+c22,Concord,10000,2
+c23,Washington,11500,2
+c24,Waterbury,5000,2
+c25,Islip,12500,2
+c26,Springfield,5500,2
+c27,Virginia Beach,11000,2
+c28,Fort Worth,5000,2
+c29,Dayton,8500,2
+c30,Albany,6500,2
+c31,Brookhaven,13000,2
+c32,Enterprise,9000,2
+c33,Charleston,11000,2
+c34,Miami,13500,2
+c35,Shreveport,11500,2
+c36,Fayetteville,5500,2
+c37,Tallahassee,14000,2
+c38,Boston,7500,2
+c39,Little Rock,5500,2
+c40,Arlington,8000,2
+c41,Buffalo,7000,2
+c42,Palm Bay,10000,2
+c43,Birmingham,5000,2
+c44,Fremont,14000,2
+c45,Stockton,8000,2
+c46,Anaheim,5000,2
+c47,Allentown,7000,2
+c48,Irving,9000,2
+c49,Arlington,9500,2
+c50,Richmond,14000,2
+c51,Winter Haven,7000,2
+c52,Brownsville,14500,2
+c53,Minneapolis,7000,2
+c54,Victorville,5000,2
+c55,McAllen,6500,2
+c56,College Station,8000,2
+c57,Pittsburgh,12500,2
+c58,Chandler,8000,2
+c59,Lorain,7500,2
+c60,Gulfport,8500,2
+c61,Houston,6500,2
+c62,Concord,13500,2
+c63,Rochester,7500,2
+c64,Poughkeepsie,7500,2
+c65,Akron,13000,2
+c66,Philadelphia,12000,2
+c67,South Bend,15000,2
+c68,Columbus,5500,2
+c69,Mission Viejo,12500,2
+c70,Lexington,10000,2
+c71,Myrtle Beach,14500,2
+c72,St. Petersburg,5000,2
+c73,Fort Collins,14000,2
+c74,Peoria,6000,2
+c75,Durham,13000,2
+c76,Kalamazoo,10500,2
+c77,Syracuse,7500,2
+c78,Santa Clarita,12500,2
+c79,Milwaukee,6500,2
+c80,Los Angeles,7500,2
+c81,Youngstown,8500,2
+c82,Kissimmee,9000,2
+c83,Denver,14500,2
+c84,Gainesville,11000,2
+c85,Denton,7000,2
+c86,Jacksonville,6500,2
+c87,St. Louis,11500,2
+c88,Bremerton,6500,2
+c89,Rock Hill,6500,2
+c90,Nashua,5500,2
+c91,Jackson,6000,2
+c92,Sioux Falls,8500,2
+c93,Brooklyn,14000,2
+c94,Bridgeport,13500,2
+c95,San Antonio,12000,2
+c96,Tulsa,7500,2
+c97,Manhattan,7000,2
+c98,Mesa,5000,2
+c99,Asheville,11500,2
+c100,Thousand Oaks,14500,2
+c101,Harrisburg,13000,2
+c102,Spokane,7000,2
+c103,Amarillo,10500,2
+c104,Louisville,15000,2
+c105,Fort Wayne,15000,2
+c106,Yonkers,14000,2
+c107,Jersey City,9000,2
+c108,Eugene,14000,2
+c109,Lakeland,6000,2
+c110,Baton Rouge,12000,2
+c111,Nashville,12000,2
+c112,Cincinnati,6000,2
+c113,Scottsdale,6500,2
+c114,Sacramento,6000,2
+c115,Appleton,13000,2
+c116,North Las Vegas,13000,2
+c117,Indio,13000,2
+c118,Flint,13500,2
+c119,Santa Rosa,10000,2
+c120,San Diego,12500,2
+c121,Cleveland,13500,2
+c122,San Jose,5000,2
+c123,Madison,13000,2
+c124,St. Paul,6500,2
+c125,Indianapolis,7000,2
+c126,Huntington,7500,2
+c127,Corpus Christi,11000,2
+c128,Baltimore,10500,2
+c129,Detroit,7500,2
+c130,Ann Arbor,15000,2
+c131,Oakland,14000,2
+c132,Lansing,13500,2
+c133,Hartford,12500,2
+c134,Roanoke,5000,2
+c135,New Orleans,8500,2
+c136,Lafayette,14000,2
+c137,Oyster Bay,14000,2
+c138,Long Beach,5000,2
+c139,Tacoma,10000,2
+c140,Chattanooga,11000,2
+c141,Des Moines,11500,2
+c142,New Haven,14000,2
+c143,Ogden,13000,2
+c144,Evansville,7500,2
+c145,Toledo,6000,2
+c146,Trenton,11000,2
+c147,Oklahoma City,9500,2
+c148,Wilmington,15000,2
+c149,Modesto,7500,2
+c150,Montgomery,12500,2
+c151,Moreno Valley,7500,2
+c152,Austin,14500,2
+c153,North Hempstead,6500,2
+c154,Aurora,13000,2
+c155,Phoenix,9500,2
+c156,El Paso,7000,2
+c157,Galveston,8500,2
+c158,Oxnard,9000,2
+c159,Omaha,13500,2
+c160,Staten Island,14500,2
+c161,Wichita,12500,2
+c162,Seattle,13500,2
+c163,Hempstead,6500,2
+c164,San Bernardino,13000,2
+c165,Deltona,7000,2
+c166,Chula Vista,8500,2
+c167,Fargo,7500,2
+c168,Reno,15000,2
+c169,Plano,6000,2
+c170,Port St. Lucie,14500,2
+c171,York,6500,2
+c172,Glendale,5000,2
+c173,Bronx,6500,2
+c174,Lancaster,14500,2
+c175,Bonita Springs,12500,2
+c176,Cape Coral,5000,2
+c177,Garland,9500,2
+c178,Dallas,14500,2
+c179,Lincoln,5500,2
+c180,Grand Rapids,15000,2
+c181,Columbus,12000,2
+c182,Atlanta,11500,2
+c183,Fontana,11000,2
+c184,San Francisco,10500,2
+c185,New York,8500,2
