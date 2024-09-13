@@ -1,4 +1,4 @@
-﻿ID,city,country,supply,lat,lon
+﻿ID,name,country,supply,lat,lon
 s1,Riga,Latvia,3400,56.9489,24.1064
 s2,Vaciamadrid,Spain,3600,40.3394,-3.5181
 s3,Almada,Portugal,2000,38.6803,-9.1583

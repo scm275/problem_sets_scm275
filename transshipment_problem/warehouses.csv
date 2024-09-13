@@ -1,4 +1,4 @@
-﻿ID,city,country,capacity,lat,lon
+﻿ID,name,country,capacity,lat,lon
 w1,Clermont-Ferrand,France,1500,45.7831,3.0824
 w2,Deventer,Netherlands,5000,52.25,6.15
 w3,Gdynia,Poland,2500,54.5175,18.54
