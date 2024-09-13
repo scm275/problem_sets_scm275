@@ -1,4 +1,4 @@
-﻿ID,city,lat,lon,supply
+﻿ID,name,lat,lon,supply
 S01,Columbia,34.000343,-81.033211,40000
 S02,Jefferson City,38.579201,-92.172935,30000
 S03,Santa Fe,35.68224,-105.939728,20000

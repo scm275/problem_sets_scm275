@@ -1,4 +1,4 @@
-﻿ID,city,lat,lon,demand
+﻿ID,name,lat,lon,demand
 C01,Concord,43.206898,-71.537994,9000
 C02,Trenton,40.220596,-74.769913,10000
 C03,Austin,30.27467,-97.740349,10000
