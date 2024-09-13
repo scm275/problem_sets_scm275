@@ -1,4 +1,4 @@
-﻿nam,name,country,demand,lat,lon
+﻿ID,name,country,demand,lat,lon
 c1,Lyon,France,600,45.76,4.84
 c2,Ludwigshafen,Germany,1000,49.4811,8.4353
 c3,Pecs,Hungary,700,46.0711,18.2331
