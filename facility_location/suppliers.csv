@@ -1,4 +1,4 @@
-ID,city,lat,lon,supply
+ID,name,lat,lon,supply
 s1,Chicago,41.8375,-87.6866,39000
 s2,Tampa,27.9945,-82.4447,39000
 s3,Boston,42.3188,-71.0852,39000

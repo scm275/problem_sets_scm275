@@ -1,4 +1,4 @@
-ID,city,lat,lon,capacity,fixed_cost
+ID,name,lat,lon,capacity,fixed_cost
 w1,Poinciana,28.1217,-81.4821,30000,5000000
 w2,Huntington Beach,33.696,-118.0018,30000,5000000
 w3,Pryor Creek,36.2996,-95.3107,30000,5000000

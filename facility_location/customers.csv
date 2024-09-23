@@ -1,4 +1,4 @@
-ID,city,lat,lon,population,demand
+ID,name,lat,lon,population,demand
 c1,Chicago Ridge,41.7034,-87.7795,1860281,6400
 c2,Los Osos,35.3065,-120.8242,809268,6400
 c3,Carneys Point,39.6967,-75.4475,4040,6400
