@@ -1,4 +1,4 @@
-﻿ID,city,lat,lon,country,demand
+﻿ID,name,lat,lon,country,demand
 c1,Atlanta,33.7628,-84.422,United States,270
 c2,Portland,45.5371,-122.65,United States,120
 c3,Providence,41.823,-71.4187,United States,90

@@ -1,4 +1,4 @@
-ID,city,country,lat,lon,supply
+ID,name,country,lat,lon,supply
 COBUN,Buenaventura,Colombia,3.8899335,-77.0786047,620
 LKCMB,Colombo,Sri Lanka,6.88669255,79.91873787,720
 INJHT,Jawaharlal Nehru,India,18.50226505,73.85567153,480
