@@ -1,0 +1,16 @@
+﻿ID,name,sales,current_customer,selling_price
+C01,Harrisburg,5000,FALSE,50
+C02,Oklahoma City,12600,TRUE,57
+C03,Springfield,11100,TRUE,69
+C04,Denver,6700,TRUE,52
+C05,Jackson,7000,TRUE,53
+C06,Montpelier,12700,FALSE,69
+C07,Trenton,14900,TRUE,67
+C08,Little Rock,6900,TRUE,56
+C09,Topeka,7000,TRUE,53
+C10,Bismarck,11200,TRUE,70
+C11,Cheyenne,9000,TRUE,53
+C12,Columbus,5400,FALSE,53
+C13,Indianapolis,11700,TRUE,61
+C14,Concord,8700,TRUE,58
+C15,Austin,11000,FALSE,57
