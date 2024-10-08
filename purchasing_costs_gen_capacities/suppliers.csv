@@ -1,9 +1,9 @@
-ID,name,lat,lon,fixed_cost
-s1,Bassano del Grappa,45.7667,11.7342,1000
-s2,Torrejon de Ardoz,40.4614,-3.4978,1000
-s3,Merida,38.9,-6.3333,1000
-s4,Susice,49.2312,13.5202,1000
-s5,Veendam,53.1,6.8833,1000
-s6,Alblasserdam,51.8702,4.6667,1000
-s7,Teramo,42.6589,13.7039,1000
-s8,Picana,39.4361,-0.435,1000
+ID,name,lat,lon
+s1,Bassano del Grappa,45.7667,11.7342
+s2,Torrejon de Ardoz,40.4614,-3.4978
+s3,Merida,38.9,-6.3333
+s4,Susice,49.2312,13.5202
+s5,Veendam,53.1,6.8833
+s6,Alblasserdam,51.8702,4.6667
+s7,Teramo,42.6589,13.7039
+s8,Picana,39.4361,-0.435
