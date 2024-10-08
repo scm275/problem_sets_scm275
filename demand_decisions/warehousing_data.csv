@@ -1,0 +1,11 @@
+warehouseID,productID,landed_cost
+w1,product_a,40
+w2,product_a,40
+w3,product_a,40
+w4,product_a,40
+w5,product_a,40
+w1,product_b,57
+w2,product_b,57
+w3,product_b,57
+w4,product_b,57
+w5,product_b,57
