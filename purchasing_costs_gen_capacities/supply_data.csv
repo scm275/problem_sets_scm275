@@ -1,4 +1,4 @@
-supplierID,product,supply,unit_price
+supplierID,product,supply,var_cost
 s1,product_a,0,26
 s1,product_b,0,23
 s1,product_c,6000,28
