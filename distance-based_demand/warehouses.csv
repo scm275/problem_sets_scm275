@@ -1,4 +1,4 @@
-ID,city,lat,lon,fixed_cost,capacity,landed_cost
+ID,name,lat,lon,fixed_cost,capacity,landed_cost
 w1,San Bernandino,34.09545717,-117.2325538,400000,5000,50
 w2,Salt Lake City,40.7644,-111.8469,200000,5000,50
 w3,Portland,45.6179,-122.59907,280000,5000,50
