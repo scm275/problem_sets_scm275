@@ -1,12 +1,10 @@
 ID,name,country,dwell_time,lat,lon
 USBAL,Baltimore,United States,6,39.2908816,-76.610759
 USBOS,Boston,United States,6,42.3554334,-71.060511
-USCHS,Charleston,United States,5.1,32.7876012,-79.9402728
 USHOU,Houston,United States,4.2,29.7589382,-95.3676974
 USJAX,Jacksonville,United States,5.8,30.3321838,-81.655651
 USLGB,Long Beach,United States,5.3,33.7690164,-118.191604
 USMIA,Miami,United States,4,25.7741728,-80.19362
-USNFK,Norfolk,United States,6.1,36.8448348,-76.2863999
 USNWK,Newark,United States,5.3,40.735657,-74.1723667
 USPHL,Philadelphia,United States,6.5,39.9527237,-75.1635262
 USSAV,Savannah,United States,4.8,32.0564572,-81.0951271
