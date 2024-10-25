@@ -1,5 +1,5 @@
 ID,city,country,lat,lon,supply
-mfg_haiphong,Haiphong,Vietnam,20.85360985,106.5771433,2500000
-mfg_laem_chabang,Laem Chabang,Thailand,13.38085682,101.0241521,1500000
-mfg_ningbo,Ningbo,China,29.63314705,121.3830405,2000000
-mfg_shenzhen,Shenzhen,China,23.10517397,113.7853561,2000000
+s_01,Haiphong,Vietnam,20.85360985,106.5771433,2500000
+s_02,Laem Chabang,Thailand,13.38085682,101.0241521,1500000
+s_03,Ningbo,China,29.63314705,121.3830405,2000000
+s_04,Shenzhen,China,23.10517397,113.7853561,2000000
