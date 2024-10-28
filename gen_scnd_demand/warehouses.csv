@@ -1,4 +1,4 @@
-ID,city,lat,lon,fixed_cost,capacity_hours,capacity_space
+ID,name,lat,lon,fixed_cost,capacity_hours,capacity_space
 w1,Albany,42.6664,-73.7987,1000000,10000,7000
 w2,Jersey City,40.7184,-74.0686,1500000,25000,8000
 w3,Harrisburg,40.2752,-76.8843,1000000,10000,2500
