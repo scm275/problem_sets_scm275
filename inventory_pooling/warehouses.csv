@@ -1,4 +1,4 @@
-ID,city,lat,lon,fixed_cost
+ID,name,lat,lon,fixed_cost
 w1,Dallas,32.7762719,-96.7968559,25000
 w2,Columbus ,39.9622601,-83.0007065,25000
 w3,Atlanta,33.7489924,-84.3902644,25000
