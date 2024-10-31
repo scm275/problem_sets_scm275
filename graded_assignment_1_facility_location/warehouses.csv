@@ -1,0 +1,11 @@
+ID,name,state,lat,lon,capacity,fixed_cost
+w_01,Hartford,Connecticut,41.7661,-72.6834,4200,46200
+w_02,Bronx,New York,40.8501,-73.8662,5100,61200
+w_03,Omaha,Nebraska,41.2627,-96.0529,5800,69600
+w_04,Salt Lake City,Utah,40.7776,-111.9311,5900,59000
+w_05,Orlando,Florida,28.4773,-81.337,5800,69600
+w_06,Birmingham,Alabama,33.5279,-86.7971,4100,49200
+w_07,Albany,New York,42.6664,-73.7987,5700,68400
+w_08,Bridgeport,Connecticut,41.1918,-73.1954,5500,60500
+w_09,Houston,Texas,29.786,-95.3885,5600,67200
+w_10,Palm Bay,Florida,27.9631,-80.6593,4100,41000

@@ -1,0 +1,65 @@
+ID,name,state,lat,lon,demand
+c_01,Colorado Springs,Colorado,38.8674,-104.7605,400
+c_02,Pittsburgh,Pennsylvania,40.4397,-79.9763,390
+c_03,Charleston,South Carolina,32.8168,-79.9687,370
+c_04,Rochester,New York,43.168,-77.6162,210
+c_05,Fresno,California,36.783,-119.7939,250
+c_06,Bakersfield,California,35.3529,-119.0359,340
+c_07,San Diego,California,32.8313,-117.1222,230
+c_08,St. Louis,Missouri,38.6359,-90.2451,370
+c_09,Providence,Rhode Island,41.823,-71.4187,200
+c_10,San Francisco,California,37.7558,-122.4449,230
+c_11,Albuquerque,New Mexico,35.1054,-106.6465,220
+c_12,Baton Rouge,Louisiana,30.442,-91.1311,270
+c_13,Virginia Beach,Virginia,36.7335,-76.0435,280
+c_14,Tulsa,Oklahoma,36.1283,-95.9042,250
+c_15,Manhattan,New York,40.7834,-73.9662,240
+c_16,Provo,Utah,40.2457,-111.6457,220
+c_17,Knoxville,Tennessee,35.9692,-83.9496,330
+c_18,Mission Viejo,California,33.6096,-117.6551,210
+c_19,Oklahoma City,Oklahoma,35.4676,-97.5136,270
+c_20,Ogden,Utah,41.2279,-111.9682,260
+c_21,Memphis,Tennessee,35.1087,-89.9663,400
+c_22,Denver,Colorado,39.762,-104.8758,260
+c_23,Washington,District of Columbia,38.9047,-77.0163,220
+c_24,Columbia,South Carolina,34.0378,-80.9036,290
+c_25,Chicago,Illinois,41.8375,-87.6866,260
+c_26,Hempstead,New York,40.6629,-73.6089,250
+c_27,Cleveland,Ohio,41.4764,-81.6805,360
+c_28,McAllen,Texas,26.2252,-98.2467,350
+c_29,Cape Coral,Florida,26.6443,-81.9957,390
+c_30,Seattle,Washington,47.6211,-122.3244,210
+c_31,Riverside,California,33.9381,-117.3949,250
+c_32,Philadelphia,Pennsylvania,40.0077,-75.1339,240
+c_33,Fort Worth,Texas,32.7817,-97.3474,220
+c_34,Raleigh,North Carolina,35.8324,-78.6429,360
+c_35,Des Moines,Iowa,41.5725,-93.6105,340
+c_36,Wichita,Kansas,37.6895,-97.3443,370
+c_37,Las Vegas,Nevada,36.2333,-115.2654,230
+c_38,Jacksonville,Florida,30.3322,-81.6749,250
+c_39,Baltimore,Maryland,39.3051,-76.6144,350
+c_40,Queens,New York,40.7498,-73.7976,340
+c_41,New Haven,Connecticut,41.3113,-72.9246,270
+c_42,Mesa,Arizona,33.4015,-111.7178,280
+c_43,El Paso,Texas,31.8476,-106.43,230
+c_44,Tucson,Arizona,32.1541,-110.8787,290
+c_45,Portland,Oregon,45.5371,-122.65,240
+c_46,Richmond,Virginia,37.5295,-77.4756,370
+c_47,Detroit,Michigan,42.3834,-83.1024,400
+c_48,Akron,Ohio,41.0798,-81.5219,370
+c_49,Austin,Texas,30.3005,-97.7522,260
+c_50,Tampa,Florida,27.9945,-82.4447,300
+c_51,Milwaukee,Wisconsin,43.0642,-87.9675,340
+c_52,Miami,Florida,25.784,-80.2101,320
+c_53,San Antonio,Texas,29.4632,-98.5238,400
+c_54,Charlotte,North Carolina,35.2083,-80.8303,280
+c_55,Buffalo,New York,42.9018,-78.8487,210
+c_56,Nashville,Tennessee,36.1715,-86.7842,230
+c_57,Dayton,Ohio,39.7805,-84.2003,230
+c_58,Grand Rapids,Michigan,42.9619,-85.6562,360
+c_59,San Jose,California,37.3012,-121.848,390
+c_60,Los Angeles,California,34.1141,-118.4068,380
+c_61,Allentown,Pennsylvania,40.5961,-75.4756,380
+c_62,Louisville,Kentucky,38.1663,-85.6485,310
+c_63,Sacramento,California,38.5677,-121.4685,360
+c_64,Phoenix,Arizona,33.5722,-112.0892,320
