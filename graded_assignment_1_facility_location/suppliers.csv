@@ -1,9 +1,7 @@
 ID,name,state,lat,lon,supply
-s_01,Kansas City,Missouri,39.1238,-94.5541,4320
-s_02,Concord,California,37.9722,-122.0016,5400
-s_03,New Orleans,Louisiana,30.0687,-89.9288,4320
-s_04,Boston,Massachusetts,42.3188,-71.0852,5220
-s_05,Columbus,Ohio,39.9862,-82.9855,4320
-s_06,Brooklyn,New York,40.6501,-73.9496,4680
-s_07,New York,New York,40.6943,-73.9249,3780
-s_08,Cincinnati,Ohio,39.1413,-84.506,5400
+s_01,Concord,California,37.9722,-122.0016,5400
+s_02,New Orleans,Louisiana,30.0687,-89.9288,4320
+s_03,Boston,Massachusetts,42.3188,-71.0852,5220
+s_04,Columbus,Ohio,39.9862,-82.9855,4320
+s_05,Brooklyn,New York,40.6501,-73.9496,4680
+s_06,New York,New York,40.6943,-73.9249,3780
