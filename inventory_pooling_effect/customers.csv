@@ -1,0 +1,37 @@
+ID,name,state,lat,lon,demand,sigma
+c1,New York,New York,40.6943,-73.9249,189100,30256
+c2,Los Angeles,California,34.1141,-118.4068,119200,23840
+c3,Chicago,Illinois,41.8375,-87.6866,85000,15300
+c4,Miami,Florida,25.784,-80.2101,60800,18240
+c5,Houston,Texas,29.786,-95.3885,59700,16716
+c6,Philadelphia,Pennsylvania,40.0077,-75.1339,56800,11928
+c7,Washington,District of Columbia,38.9047,-77.0163,51200,13312
+c8,Boston,Massachusetts,42.3188,-71.0852,43300,10825
+c9,Phoenix,Arizona,33.5722,-112.0892,40600,6090
+c10,Detroit,Michigan,42.3834,-83.1024,37300,8579
+c11,Seattle,Washington,47.6211,-122.3244,35600,8188
+c12,San Francisco,California,37.7558,-122.4449,33600,6720
+c13,San Diego,California,32.8313,-117.1222,30500,7015
+c14,Tampa,Florida,27.9945,-82.4447,28600,8294
+c15,Brooklyn,New York,40.6501,-73.9496,27400,7398
+c16,Denver,Colorado,39.762,-104.8758,26900,5380
+c17,Queens,New York,40.7498,-73.7976,24100,4820
+c18,Riverside,California,33.9381,-117.3949,23300,3495
+c19,Las Vegas,Nevada,36.2333,-115.2654,22500,4050
+c20,Baltimore,Maryland,39.3051,-76.6144,22000,4400
+c21,St. Louis,Missouri,38.6359,-90.2451,21300,5112
+c22,Portland,Oregon,45.5371,-122.65,21000,5040
+c23,San Antonio,Texas,29.4632,-98.5238,20600,5562
+c24,Sacramento,California,38.5677,-121.4685,19600,5488
+c25,Austin,Texas,30.3005,-97.7522,19100,3629
+c26,Orlando,Florida,28.4773,-81.337,18800,4324
+c27,San Jose,California,37.3012,-121.848,17700,3894
+c28,Pittsburgh,Pennsylvania,40.4397,-79.9763,17500,3150
+c29,Manhattan,New York,40.7834,-73.9662,16900,3549
+c30,Cincinnati,Ohio,39.1413,-84.506,16900,2704
+c31,Kansas City,Missouri,39.1238,-94.5541,16900,2535
+c32,Cleveland,Ohio,41.4764,-81.6805,16800,5040
+c33,Columbus,Ohio,39.9862,-82.9855,15700,3768
+c34,Bronx,New York,40.8501,-73.8662,14700,3381
+c35,Virginia Beach,Virginia,36.7335,-76.0435,14400,3600
+c36,Charlotte,North Carolina,35.2083,-80.8303,14300,2145
