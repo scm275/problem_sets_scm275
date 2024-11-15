@@ -1,0 +1,26 @@
+ID,name,state,lat,lon
+c01,Manhattan,New York,40.7834,-73.9662
+c02,Seattle,Washington,47.6211,-122.3244
+c03,Pittsburgh,Pennsylvania,40.4397,-79.9763
+c04,Philadelphia,Pennsylvania,40.0077,-75.1339
+c05,Los Angeles,California,34.1141,-118.4068
+c06,San Antonio,Texas,29.4632,-98.5238
+c07,Baltimore,Maryland,39.3051,-76.6144
+c08,Columbus,Ohio,39.9862,-82.9855
+c09,San Francisco,California,37.7558,-122.4449
+c10,Cleveland,Ohio,41.4764,-81.6805
+c11,Boston,Massachusetts,42.3188,-71.0852
+c12,Bronx,New York,40.8501,-73.8662
+c13,Cincinnati,Ohio,39.1413,-84.506
+c14,St. Louis,Missouri,38.6359,-90.2451
+c15,Austin,Texas,30.3005,-97.7522
+c16,Kansas City,Missouri,39.1238,-94.5541
+c17,San Jose,California,37.3012,-121.848
+c18,Queens,New York,40.7498,-73.7976
+c19,Charlotte,North Carolina,35.2083,-80.8303
+c20,Las Vegas,Nevada,36.2333,-115.2654
+c21,Sacramento,California,38.5677,-121.4685
+c22,New York,New York,40.6943,-73.9249
+c23,Brooklyn,New York,40.6501,-73.9496
+c24,Detroit,Michigan,42.3834,-83.1024
+c25,San Diego,California,32.8313,-117.1222
