@@ -1,8 +1,8 @@
-ID,city,country,supply,lat,lon,purchase_price
-s1,Haiphong,Vietnam,805000,20.85360985,106.5771433,10.2
-s2,Laem Chabang,Thailand,845000,13.38085682,101.0241521,11.2
-s3,Shenzhen,China,695000,23.10517397,113.7853561,9.7
-s4,Colombo,Sri Lanka,575000,6.88669255,79.91873787,11.9
-s5,Callao,Peru,990000,-12.0522626,-77.1391133,13.7
-s6,Denver,Colorado,990000,39.762,-104.8758,19.4
-s7,St. Louis,Missouri,575000,38.6359,-90.2451,17.6
+ID,name,country,supply,lat,lon,purchase_price
+s1,Haiphong,Vietnam,32200,20.85360985,106.5771433,10.2
+s2,Laem Chabang,Thailand,33800,13.38085682,101.0241521,11.2
+s3,Shenzhen,China,27800,23.10517397,113.7853561,9.7
+s4,Colombo,Sri Lanka,23000,6.88669255,79.91873787,11.9
+s5,Callao,Peru,39600,-12.0522626,-77.1391133,13.7
+s6,Denver,US,39600,39.762,-104.8758,19.4
+s7,St. Louis,US,23000,38.6359,-90.2451,17.6

@@ -1,4 +1,4 @@
-ID,name,country,lat,lon,time
+ID,name,country,lat,lon,dwell_time
 USBAL,Baltimore,United States,39.2908816,-76.610759,5
 USBOS,Boston,United States,42.3554334,-71.060511,3.7
 USCHS,Charleston,United States,32.7876012,-79.9402728,4.8
